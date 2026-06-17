@@ -1,6 +1,9 @@
-# Python for Data Science
 
-A structured repository documenting my journey of learning Python for **Data Science, Data Analytics, Machine Learning, and Generative AI**.
+<h1 align="center">
+  <img src="https://www.python.org/static/favicon.ico" width="35">
+   Python for Data Science
+</h1>
+A structured repository documenting my journey of learning Python for <b>Data Science, Data Analytics, Machine Learning,</b> and <b>Generative AI.</b>
 
 ## Objectives
 
@@ -48,4 +51,4 @@ A structured repository documenting my journey of learning Python for **Data Sci
 
 To build a strong Python foundation and transition into Data Science, Machine Learning, and Generative AI.
 
-⭐ Learning in public, one commit at a time.
+⭐ Version controlling my journey from Python fundamentals to AI.
