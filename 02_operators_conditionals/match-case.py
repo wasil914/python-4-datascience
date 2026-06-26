@@ -1,3 +1,4 @@
+#Q1
 day = int(input('Enter Day Number: '))
 match day:
 
@@ -15,3 +16,15 @@ match day:
         print('Saturday')
     case _:
         print('Invalid')
+#Q2
+user_input = input('Enter : ')
+match user_input:
+    case 'a':
+        print('Add')
+    case 'b':
+        print('Browse')
+    case 'c':
+        print('Cancel')
+    case _ :
+        print('Invalid Option')
+    

@@ -1,12 +1,12 @@
-# num = int(input('Enter number: '))
-# if num>0 :
-#     print("positive")
-#     if num%2 == 0:
-#         print('Even')
-#     else:
-#         print('Odd')
-# else:
-#     print('Negative Number')
+num = int(input('Enter number: '))
+if num>0 :
+    print("positive")
+    if num%2 == 0:
+        print('Even')
+    else:
+        print('Odd')
+else:
+    print('Negative Number')
 
 user_name = input('Enter Username: ')
 passwrd = input('Enter Password: ')
